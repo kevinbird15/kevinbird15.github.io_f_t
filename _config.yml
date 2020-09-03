@@ -12,9 +12,11 @@ github_username: kevinbird15
 
 url: "http://kevinbird15.com"
 baseurl: ""
-# Email and twitter are optional:
-email:kevinbird15@gmail.com
-twitter_username:kjbird15
+
+minima:
+  social_links:
+    twitter:kjbird15
+    github:kevinbird15
 
 # Set this to true to get LaTeX math equation support
 use_math:true
