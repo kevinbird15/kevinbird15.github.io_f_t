@@ -15,8 +15,9 @@ baseurl: ""
 
 minima:
   social_links:
-    twitter:kjbird15
-    github:kevinbird15
+    twitter: kjbird15
+    github: kevinbird15
+    email: kevinbird15@gmail.com
 
 # Set this to true to get LaTeX math equation support
 use_math: true
